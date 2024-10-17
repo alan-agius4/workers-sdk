@@ -2,4 +2,4 @@
 "create-cloudflare": minor
 ---
 
-Update Angular template to version 19
+feat: update Angular template to version 19
